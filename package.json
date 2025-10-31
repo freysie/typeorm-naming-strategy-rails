@@ -11,7 +11,7 @@
     "build": "tsc"
   },
   "peerDependencies": {
-    "typeorm": "^0.2.21"
+    "typeorm": "^0.3.26"
   },
   "dependencies": {
     "lodash": "4.x"
@@ -19,6 +19,6 @@
   "devDependencies": {
     "@types/lodash": "4.x",
     "@types/node": "^12.12.17",
-    "typeorm": "^0.2.21"
+    "typeorm": "^0.3.26"
   }
 }
